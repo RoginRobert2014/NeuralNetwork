@@ -9,3 +9,6 @@ Rossmann Stores sales Kaggle Competition
 Stored the testing results in testing folder
 Loss is 0.0032
 
+# Neural Network Lander Game
+# Build Neural Network From Scratch in Python + Integrate into lander game
+
