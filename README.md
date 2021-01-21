@@ -6,7 +6,7 @@ Forecast sales using store, promotion, and competitor data
 Rossmann Stores sales Kaggle Competition
 
 # Performance
-Stored the testing results in testing folder
+Stored the testing results in testing folder.
 Loss is 0.0032
 
 # Neural Network Lander Game
